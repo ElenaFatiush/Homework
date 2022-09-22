@@ -1,0 +1,15 @@
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW10\bin\Debug\net6.0\HW10.exe
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW10\bin\Debug\net6.0\HW10.deps.json
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW10\bin\Debug\net6.0\HW10.runtimeconfig.json
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW10\bin\Debug\net6.0\HW10.dll
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW10\bin\Debug\net6.0\HW10.pdb
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW10\obj\Debug\net6.0\HW10.csproj.AssemblyReference.cache
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW10\obj\Debug\net6.0\HW10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW10\obj\Debug\net6.0\HW10.AssemblyInfoInputs.cache
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW10\obj\Debug\net6.0\HW10.AssemblyInfo.cs
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW10\obj\Debug\net6.0\HW10.csproj.CoreCompileInputs.cache
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW10\obj\Debug\net6.0\HW10.dll
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW10\obj\Debug\net6.0\refint\HW10.dll
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW10\obj\Debug\net6.0\HW10.pdb
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW10\obj\Debug\net6.0\HW10.genruntimeconfig.cache
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW10\obj\Debug\net6.0\ref\HW10.dll
