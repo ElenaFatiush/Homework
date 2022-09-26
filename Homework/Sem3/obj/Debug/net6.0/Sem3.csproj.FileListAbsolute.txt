@@ -1,0 +1,15 @@
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\Sem3\bin\Debug\net6.0\Sem3.exe
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\Sem3\bin\Debug\net6.0\Sem3.deps.json
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\Sem3\bin\Debug\net6.0\Sem3.runtimeconfig.json
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\Sem3\bin\Debug\net6.0\Sem3.dll
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\Sem3\bin\Debug\net6.0\Sem3.pdb
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\Sem3\obj\Debug\net6.0\Sem3.csproj.AssemblyReference.cache
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\Sem3\obj\Debug\net6.0\Sem3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\Sem3\obj\Debug\net6.0\Sem3.AssemblyInfoInputs.cache
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\Sem3\obj\Debug\net6.0\Sem3.AssemblyInfo.cs
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\Sem3\obj\Debug\net6.0\Sem3.csproj.CoreCompileInputs.cache
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\Sem3\obj\Debug\net6.0\Sem3.dll
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\Sem3\obj\Debug\net6.0\refint\Sem3.dll
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\Sem3\obj\Debug\net6.0\Sem3.pdb
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\Sem3\obj\Debug\net6.0\Sem3.genruntimeconfig.cache
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\Sem3\obj\Debug\net6.0\ref\Sem3.dll
