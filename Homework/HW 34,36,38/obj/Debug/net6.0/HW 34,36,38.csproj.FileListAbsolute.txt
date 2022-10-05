@@ -1,0 +1,15 @@
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW 34,36,38\bin\Debug\net6.0\HW 34,36,38.exe
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW 34,36,38\bin\Debug\net6.0\HW 34,36,38.deps.json
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW 34,36,38\bin\Debug\net6.0\HW 34,36,38.runtimeconfig.json
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW 34,36,38\bin\Debug\net6.0\HW 34,36,38.dll
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW 34,36,38\bin\Debug\net6.0\HW 34,36,38.pdb
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW 34,36,38\obj\Debug\net6.0\HW 34,36,38.csproj.AssemblyReference.cache
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW 34,36,38\obj\Debug\net6.0\HW 34,36,38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW 34,36,38\obj\Debug\net6.0\HW 34,36,38.AssemblyInfoInputs.cache
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW 34,36,38\obj\Debug\net6.0\HW 34,36,38.AssemblyInfo.cs
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW 34,36,38\obj\Debug\net6.0\HW 34,36,38.csproj.CoreCompileInputs.cache
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW 34,36,38\obj\Debug\net6.0\HW 34,36,38.dll
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW 34,36,38\obj\Debug\net6.0\refint\HW 34,36,38.dll
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW 34,36,38\obj\Debug\net6.0\HW 34,36,38.pdb
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW 34,36,38\obj\Debug\net6.0\HW 34,36,38.genruntimeconfig.cache
+C:\Users\Лена\Desktop\Обучение\HomeWor\Homework\HW 34,36,38\obj\Debug\net6.0\ref\HW 34,36,38.dll
